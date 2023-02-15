@@ -1,0 +1,6 @@
+{
+  "__comment": "Set values to false if no link should be created.",
+  "repoURL": "https://github.com/TIBHannover/digital-publications-in-culture-survey-results/",
+  "repoBranch": "main",
+  "vivlioURL": "https://vivliostyle.vercel.app/"
+}
