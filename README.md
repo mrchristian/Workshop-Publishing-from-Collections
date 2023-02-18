@@ -6,7 +6,7 @@ Experimental Books – Re-imagining Scholarly Publishing, COPIM. Workshop URL: h
 
 Contribution from Task Area 4 of the [NFDI4Culture](https://nfdi4culture.de/) is looking at which initiatives are enhancing their publications for open scholarship. Its aim is to establish a guideline for scholars to create publications and their associated data with a focus on long-term digital preservation.
 
-Example workshop publication: [toc Baroque /toc](Publication URL: https://simonxix.github.io/Experimental_Books_workshop/)
+Example workshop publication: [toc Baroque /toc](https://simonxix.github.io/Experimental_Books_workshop/)
 
 <img src="cover/cover-small.jpg" alt="toc Baroque /toc">
 
